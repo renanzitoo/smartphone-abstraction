@@ -1,0 +1,14 @@
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\bin\Debug\net10.0\SmartPhoneAbstraction.exe
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\bin\Debug\net10.0\SmartPhoneAbstraction.deps.json
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\bin\Debug\net10.0\SmartPhoneAbstraction.runtimeconfig.json
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\bin\Debug\net10.0\SmartPhoneAbstraction.dll
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\bin\Debug\net10.0\SmartPhoneAbstraction.pdb
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\obj\Debug\net10.0\SmartPhoneAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\obj\Debug\net10.0\SmartPhoneAbstraction.AssemblyInfoInputs.cache
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\obj\Debug\net10.0\SmartPhoneAbstraction.AssemblyInfo.cs
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\obj\Debug\net10.0\SmartPhoneAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\obj\Debug\net10.0\SmartPhoneAbstraction.dll
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\obj\Debug\net10.0\refint\SmartPhoneAbstraction.dll
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\obj\Debug\net10.0\SmartPhoneAbstraction.pdb
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\obj\Debug\net10.0\SmartPhoneAbstraction.genruntimeconfig.cache
+C:\Users\renan\RiderProjects\SmartPhoneAbstraction\SmartPhoneAbstraction\obj\Debug\net10.0\ref\SmartPhoneAbstraction.dll
